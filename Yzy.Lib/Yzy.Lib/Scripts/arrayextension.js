@@ -1,4 +1,0 @@
-﻿
-Array.prototype.select = function () {
-
-}

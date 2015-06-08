@@ -1,0 +1,4 @@
+﻿
+Array.prototype.select = function () {
+
+}
